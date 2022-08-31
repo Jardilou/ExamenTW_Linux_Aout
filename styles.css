@@ -1,0 +1,32 @@
+body
+{
+    width: 500px;
+    font: Arial;
+    size: 12px;
+    border-width: 1px;
+    border-color: lightgrey;
+    border-style: solid;
+    padding: 10px;
+    color: blue;
+}
+
+#addItem-button
+{
+background-color: steelblue;
+margin: 10px;
+padding: 10px;
+color: white;
+
+}
+
+input, label{
+    text-align: center;
+    margin: 5px;
+
+}
+
+.article_line{
+    background-color: lightgray;
+    margin: 5px;
+    padding: 5px;
+}
